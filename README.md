@@ -20,3 +20,13 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Education]()
 - [Certificates]()
 - [Contacts]()
+
+## Portofolio Project
+
+## Education
+- Google Data Analytics Professional Certificate Coursera March, 2025
+- Certificate of Excellence for Full Stack Data Analytics, RevoU
+
+## Contacts
+- Linkedin: https://www.linkedin.com/in/yohanes-yanto/
+- Email: yohanesy16@gmail.com
