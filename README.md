@@ -1,3 +1,6 @@
+# Yohanes Yanto - Data Analyst Portofolio
+## About
+
 Hi, I'm Yoha! I have an analytical background in Educational Mathematics and currently, I am on track to completing my degree in Data Science. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analysis as an entry-level data specialist.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
@@ -7,3 +10,13 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 My CV in pdf.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+## Table of Contents
+- [About](https://github.com/YohaYanto)
+- [Portofolio Projects](https://github.com/YohaYanto)
+  - Python
+  - SQL
+  - Google Sheet
+- [Education]()
+- [Certificates]()
+- [Contacts]()
